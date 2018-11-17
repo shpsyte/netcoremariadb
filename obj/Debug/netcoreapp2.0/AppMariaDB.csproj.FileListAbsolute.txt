@@ -1,0 +1,12 @@
+C:\Users\josei\source\repos\AppMariaDB\AppMariaDB\bin\Debug\netcoreapp2.0\AppMariaDB.deps.json
+C:\Users\josei\source\repos\AppMariaDB\AppMariaDB\bin\Debug\netcoreapp2.0\AppMariaDB.runtimeconfig.json
+C:\Users\josei\source\repos\AppMariaDB\AppMariaDB\bin\Debug\netcoreapp2.0\AppMariaDB.runtimeconfig.dev.json
+C:\Users\josei\source\repos\AppMariaDB\AppMariaDB\bin\Debug\netcoreapp2.0\AppMariaDB.dll
+C:\Users\josei\source\repos\AppMariaDB\AppMariaDB\bin\Debug\netcoreapp2.0\AppMariaDB.pdb
+C:\Users\josei\source\repos\AppMariaDB\AppMariaDB\obj\Debug\netcoreapp2.0\AppMariaDB.csprojAssemblyReference.cache
+C:\Users\josei\source\repos\AppMariaDB\AppMariaDB\obj\Debug\netcoreapp2.0\AppMariaDB.csproj.CoreCompileInputs.cache
+C:\Users\josei\source\repos\AppMariaDB\AppMariaDB\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\josei\source\repos\AppMariaDB\AppMariaDB\obj\Debug\netcoreapp2.0\AppMariaDB.AssemblyInfoInputs.cache
+C:\Users\josei\source\repos\AppMariaDB\AppMariaDB\obj\Debug\netcoreapp2.0\AppMariaDB.AssemblyInfo.cs
+C:\Users\josei\source\repos\AppMariaDB\AppMariaDB\obj\Debug\netcoreapp2.0\AppMariaDB.dll
+C:\Users\josei\source\repos\AppMariaDB\AppMariaDB\obj\Debug\netcoreapp2.0\AppMariaDB.pdb
