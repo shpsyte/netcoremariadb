@@ -1,11 +1,5 @@
 # netcoremariadb
 
-App using .NetCore 2.0 com MariaBD
+App using .NetCore 2.0 with MariaBD
 
-
-To use
-
-## dotnet restore
-
-## dotnet run
-
+ 
